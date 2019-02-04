@@ -10,5 +10,9 @@ public class Test012_String_Revers
 		{
 			System.out.print(ch[j]);
 		}
+		for(char ch:str.length)
+		{
+			System.out.println(ch);
+		}
 	}
 }
