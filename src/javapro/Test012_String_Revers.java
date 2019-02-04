@@ -1,4 +1,4 @@
-package patterns;
+package javapro;
 public class Test012_String_Revers 
 {
 	public static void main(String[] args) 
